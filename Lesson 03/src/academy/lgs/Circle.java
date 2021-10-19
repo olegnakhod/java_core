@@ -24,11 +24,11 @@ public class Circle {
 
 	public void calculateAreaCircle() {
 		double areaCircle = (this.diametr / 2) * (this.diametr / 2) * Pi;
-		System.out.println("Площа круга = " + areaCircle);
+		System.out.println("РџР»РѕС‰Р° РєРѕР»Р° = " + areaCircle);
 	}
 
 	public void calculateCircumference() {
 		double circumference = this.radius * Pi * 2;
-		System.out.println("Довжина круга = " + circumference);
+		System.out.println("Р”РѕРІР¶РёРЅР° РєРѕР»Р° = " + circumference);
 	}
 }

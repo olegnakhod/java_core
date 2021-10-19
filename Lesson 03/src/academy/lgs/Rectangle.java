@@ -16,10 +16,10 @@ public class Rectangle {
 	}
 
 	public void calculateArea() {
-		System.out.println("Площа прямокутника = " + this.widht * this.hight);
+		System.out.println("РџР»РѕС‰Р° РїСЂСЏРјРѕРєСѓС‚РЅРёРєР° = " + this.widht * this.hight);
 	}
 
 	public void calculatePerimetr() {
-		System.out.println("Периметр прямокутника = " + ((this.widht * 2) + (this.hight * 2)));
+		System.out.println("РџРµСЂРёРјРµС‚СЂ РїСЂСЏРјРѕРєСѓС‚РЅРёРєР° = " + ((this.widht * 2) + (this.hight * 2)));
 	}
 }
