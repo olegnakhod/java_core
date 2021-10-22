@@ -6,4 +6,14 @@ public class CoffeRobot extends Robot{
 		super(name);
 	}
 
+	@Override
+	public String getName() {
+		return super.getName();
+	}
+
+	@Override
+	public void work() {
+		System.out.println("Я " + getName() + " – я варю каву");
+	}
+
 }

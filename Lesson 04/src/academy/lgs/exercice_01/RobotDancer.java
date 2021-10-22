@@ -5,6 +5,17 @@ public class RobotDancer extends Robot{
 	RobotDancer(String name){
 		super(name);
 	}
+	
+	@Override
+	public String getName() {
+		return super.getName();
+	}
+
+	@Override
+	public void work() {
+		System.out.println("Я " + getName() + " – я просто танцюю");
+	}
+
 
 
 }
