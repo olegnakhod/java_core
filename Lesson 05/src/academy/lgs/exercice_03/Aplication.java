@@ -10,7 +10,5 @@ public class Aplication {
 		frog.sleep();
 		frog.swim();
 		frog.walk();
-
 	}
-
 }
