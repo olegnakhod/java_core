@@ -1,4 +1,5 @@
-# Java_Core_Lesson
+# Java_Core
+<h2>My homwork</h2>
 <ul>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2001">Lesson 01</a>[JVM, типи змінних, обгортки примітивів, базові конструкції Java]</li>
