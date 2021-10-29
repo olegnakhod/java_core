@@ -13,20 +13,11 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2006/src/academy/lgs">Lesson 06</a> [Делегація, Інтерфейси, дефолтні та статичні методи інтерфейсу]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2007/src/academy/lgs">Lesson 07</a> [SOLID принципи]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2008/src/academy/lgs">Lesson 08</a> [Enumeration, консольна програма]</li>
 </ul>
 
-<table width="100%"> 
-    <tr>
-        <td>
-            [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/olegnakhod/)  
-        </td>
-        <td>
-            [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]            (https://www.facebook.com/https://www.facebook.com/olegnakhod)  
-        </td>
-    </tr>
- </table> 
 
-      
       
 
 
