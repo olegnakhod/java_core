@@ -15,6 +15,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2007/src/academy/lgs">Lesson 07</a> [SOLID принципи]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2008/src/academy/lgs">Lesson 08</a> [Enumeration, консольна програма]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2009/src/academy/lgs">Lesson 09</a> [Exceptions, Java code convention]</li>
 </ul>
 
 
