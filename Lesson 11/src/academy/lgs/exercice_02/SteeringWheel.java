@@ -1,4 +1,4 @@
-package accademy.lgs.exercice_02;
+package academy.lgs.exercice_02;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package accademy.lgs.exercice_01;
+package academy.lgs.exercice_01;
 
 import java.util.Arrays;
 import java.util.Collections;
