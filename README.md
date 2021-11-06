@@ -20,7 +20,7 @@
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2010/src/academy/lgs">Lesson 10</a> [String processing]</li>
     <li>
-        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2011/src/academy/lgs">Lesson 11</a> [Collection Framework]</li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2011/src/academy/lgs">Lesson 11</a> [Collection Framework]</li>
 </ul>
 
 
