@@ -22,7 +22,7 @@
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2011/src/academy/lgs">Lesson 11</a> [Collection Framework]</li>
      <li>
-        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2011/src/academy/lgs">Lesson 11</a> [List]</li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2012/src/academy/lgs">Lesson 12</a> [List]</li>
 </ul>
 
 
