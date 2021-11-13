@@ -23,8 +23,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2011/src/academy/lgs">Lesson 11</a> [Collection Framework]</li>
      <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/Lesson/Lesson%2012/src/academy/lgs">Lesson 12</a> [List]</li>
-         <li>
-        <a href="https://https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2013/src/academy/lgs">Lesson 13</a> [Iterator, Collection sorting]</li> 
+     <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2013/src/academy/lgs">Lesson 13</a> [Iterator, Collection sorting]</li> 
 </ul>
 
 
