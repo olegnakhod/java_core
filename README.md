@@ -26,7 +26,9 @@
      <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2013/src/academy/lgs">Lesson 13</a> [Iterator, Collection sorting]</li> 
      <li>
-        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2014/src/academy/lgs">Lesson 14</a> [Set, Queue]</li>     
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2014/src/academy/lgs">Lesson 14</a> [Set, Queue]</li>   
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2015/src/academy/lgs">Lesson 15</a> [Map]</li> 
 </ul>
 
 
