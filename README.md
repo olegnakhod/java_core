@@ -28,7 +28,9 @@
      <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2014/src/academy/lgs">Lesson 14</a> [Set, Queue]</li>   
     <li>
-        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2015/src/academy/lgs">Lesson 15</a> [Map]</li> 
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2015/src/academy/lgs">Lesson 15</a> [Map]</li>
+     <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2016/src/academy/lgs">Lesson 16</a> [Рефлексія]</li>
 </ul>
 
 
