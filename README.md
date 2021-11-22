@@ -31,6 +31,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2015/src/academy/lgs">Lesson 15</a> [Map]</li>
      <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2016/src/academy/lgs">Lesson 16</a> [Рефлексія]</li>
+    li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2017/src/academy/lgs">Lesson 17</a> [Внутрішні класи]</li>
 </ul>
 
 
