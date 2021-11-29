@@ -33,6 +33,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2016/src/academy/lgs">Lesson 16</a> [Рефлексія]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2017/src/academy/lgs">Lesson 17</a> [Внутрішні класи]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2018/src/academy/lgs">Lesson 18</a> [Параметризовані типи (Generics)]</li>
 </ul>
 
 
