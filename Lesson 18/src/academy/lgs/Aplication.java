@@ -6,6 +6,8 @@ import java.util.Map;
 public class Aplication {
 	public static void main(String[] args) {
 		//exercice 1
+		//У List із Integer можна додати String лише за умови якщо List не має явно оголошеного дженеріка,(за замовчуваннням дженерік буде Object)
+		// звідси це дає змогу наповнювати  List як інтами так і стрінгами
 		List list = ListWithGenerics.createListWithGenerics().getList();
 		
 		list.add(1);
