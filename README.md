@@ -37,6 +37,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2018/src/academy/lgs">Lesson 18</a> [Параметризовані типи (Generics)]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2019/src/academy/lgs">Lesson 19</a> [Потоки I/0 та серіалізація]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2020/src/academy/lgs">Lesson 20</a> [Threads (Потоки виконання)]</li>
 </ul>
 
 
