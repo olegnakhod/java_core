@@ -39,6 +39,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2019/src/academy/lgs">Lesson 19</a> [Потоки I/0 та серіалізація]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2020/src/academy/lgs">Lesson 20</a> [Threads (Потоки виконання)]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2021/src/academy/lgs">Lesson 21</a> [Анотації, DateTimeApi]</li>
 </ul>
 
 
