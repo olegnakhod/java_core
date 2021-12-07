@@ -41,6 +41,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2020/src/academy/lgs">Lesson 20</a> [Threads (Потоки виконання)]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2021/src/academy/lgs">Lesson 21</a> [Анотації, DateTimeApi]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2022/src/academy/lgs">Lesson 22</a> [Лямда вирази, Optional клас]</li>
 </ul>
 
 
