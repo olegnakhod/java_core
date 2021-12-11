@@ -43,6 +43,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2021/src/academy/lgs">Lesson 21</a> [Анотації, DateTimeApi]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2022/src/academy/lgs">Lesson 22</a> [Лямда вирази, Optional клас]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2023/src/academy/lgs">Lesson 23</a> [Stream API]</li>
 </ul>
 
 
