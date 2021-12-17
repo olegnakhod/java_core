@@ -45,6 +45,8 @@
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2022/src/academy/lgs">Lesson 22</a> [Лямда вирази, Optional клас]</li>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2023/src/academy/lgs">Lesson 23</a> [Stream API]</li>
+     <li>
+        <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/lesson/Lesson%2024/src/academy/lgs">Lesson 24</a> [Java 8 best practice]</li>
 </ul>
 
 
