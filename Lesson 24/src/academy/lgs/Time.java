@@ -16,7 +16,7 @@ public class Time {
 	}
 
 	public void setMin(int min) {
-		if (min >= 0 && min <= 60) {
+		if (min >= 0 && min < 60) {
 			this.min = min;
 		} else {
 			System.err.println("Ввведіть значення у межах від 0 до 60");
@@ -28,7 +28,7 @@ public class Time {
 	}
 
 	public void setHour(int hour) {
-		if (hour >= 0 && hour <= 24) {
+		if (hour >= 0 && hour < 24) {
 			this.hour = hour;
 		} else {
 			System.err.println("Ввведіть значення у межах від 0 до 24");
