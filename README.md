@@ -1,5 +1,6 @@
 # Java_Core
-<h6>My homeworks</h6>
+<h4>My homeworks</h4>
+<h6>It is homework for the Logos IT academy on the cousre "Java Developer" from the block "Java Core"</h6>
 <ul>
     <li>
         <a href="https://github.com/olegnakhod/Java_Core_Lesson/tree/all_homeworks/Lesson%2001/src/academy/lgs">Lesson 01</a> [JVM, типи змінних, обгортки примітивів, базові конструкції Java]</li>
